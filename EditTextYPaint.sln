@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditTextYPaint", "EditTextYPaint\EditTextYPaint.csproj", "{EDAA796A-679F-4C0A-AFA7-A2C43C6EBB63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAA796A-679F-4C0A-AFA7-A2C43C6EBB63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDAA796A-679F-4C0A-AFA7-A2C43C6EBB63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDAA796A-679F-4C0A-AFA7-A2C43C6EBB63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDAA796A-679F-4C0A-AFA7-A2C43C6EBB63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9B859A5-40E7-4DCA-B4F2-B2EF795C18F4}
+	EndGlobalSection
+EndGlobal
